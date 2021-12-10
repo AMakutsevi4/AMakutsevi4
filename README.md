@@ -14,12 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://t.me/A1exanddr">
-  <img align="left" alt="Alexander's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 
+<h4> 📫  You can find me here:</h4>
+[![alt-text](https://img.shields.io/badge/-telegram-grey?style=plastic&logo=telegram&logoColor=white)](https://t.me/A1exanddr)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/@%20email-0067B6?style=plastic&logo=mail&logoColor=white)](mailto:amakutsevich@bk.ru)&nbsp;&nbsp;
+
+
+
+
+<!--
 🚧 **Мои задачи на ближайшее время:**
 <!-- TODO-IST:START -->
 * [x] Прокачать свой профиль на Github
 * [ ] Пройти курс job4j
 <!-- TODO-IST:END -->
+-->
