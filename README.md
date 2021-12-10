@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+📊 **Some GutHub Stats** 
+<img align="left" alt="Alexander Makutsevich Github Stats" src="https://github-readme-stats.vercel.app/api?username=AMakutsevi4&show_icons=true&show_icons=true&include_all_commits=true&hide_border=true&theme=nord&line_height=40" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMakutsevi4&theme=nord" />
+<span align="left">
