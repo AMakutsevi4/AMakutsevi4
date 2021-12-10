@@ -5,3 +5,4 @@ Here are some ideas to get you started:
 - :ru: I’m begginer Java Developer from Republic of Sakha (Yakutia).
 
 
+![Alexander's GitHub stats](https://github-readme-stats.vercel.app/api?username=AMakutsevi4&show_icons=true&theme=radical)
